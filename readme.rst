@@ -7,8 +7,8 @@ Steps to run this project.
 4. Vist this link:- http://localhost/alumni to see results.
 
 Admin Credentials
-username:- admin@gmail.com
-password:- admin@1234
+1. username:- admin@gmail.com
+2. password:- admin@1234
 
 ###################
 What is CodeIgniter
