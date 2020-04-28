@@ -1,3 +1,15 @@
+*******************
+Steps to run this project.
+*******************
+1. Download this project and make one folder name it as alumni
+2. unzip this project.
+3. Add database alumni.sql located in database folder.
+4. Vist this link:- http://localhost/alumni to see results.
+
+Admin Credentials
+username:- admin@gmail.com
+password:- admin@1234
+
 ###################
 What is CodeIgniter
 ###################
