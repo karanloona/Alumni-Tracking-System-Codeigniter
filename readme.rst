@@ -6,7 +6,9 @@ Steps to run this project.
 3. Add database alumni.sql located in database folder.
 4. Vist this link:- http://localhost/alumni to see results.
 
+*******************
 Admin Credentials
+*******************
 1. username:- admin@gmail.com
 2. password:- admin@1234
 
